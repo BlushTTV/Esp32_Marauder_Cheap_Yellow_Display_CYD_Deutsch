@@ -5,7 +5,7 @@ Hier entsteht eine Aleitung für ein ESP32 Marauder auf der basis von dem Cheap 
 
 ## Beispiel 
 
-![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/IMG_4117.JPG?raw=true)
+![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4117.JPG?raw=true)
 
 ## Support
 
