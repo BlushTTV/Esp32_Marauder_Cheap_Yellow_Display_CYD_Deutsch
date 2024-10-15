@@ -1,7 +1,7 @@
 
 # Esp32 Marauder Cheap Yellow Display CYD Deutsch
 
-Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow Display (CYD) mit GPS, Akku & externer Wlan Antenne.
+Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow Display (CYD) mit GPS, Akku & externer Wlan Antenne. Derzeit ist alles noch in der Testphase!!!
 
 ## Einkaufsliste Hardware CYD Marauder Amazon
 <p> <a href="https://www.amazon.de/gp/product/B0CSYPG716/ref=ox_sc_act_title_19?smid=AE3E5WPQSSR6E&psc=1">CYD Display</a>
