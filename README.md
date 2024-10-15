@@ -12,6 +12,11 @@ Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow D
 <p> <a href="https://www.amazon.de/dp/B08SJ2HVQB">Schiebeschalter</a>
 <p> <a href="https://www.amazon.de/dp/B0BZSB3SBN"> Li–Ion Lithium-Akku-Ladeplatine mit USB-C (Warte auf eine andere. Diese funktioniert ist aber noch nicht Final!</a>
 
+## Kompatible Firmware
+
+ - [Marauder](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
+
+
 ## Support
 Für Support bitte meinem Discord Server beitreten. https://discord.com/invite/sW4CYXz8QA
 
