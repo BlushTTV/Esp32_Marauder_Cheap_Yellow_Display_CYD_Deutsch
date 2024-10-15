@@ -23,3 +23,7 @@ Für Support bitte meinem Discord Server beitreten. https://discord.com/invite/s
 ## Beispiel 
 
 ![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4117.JPG?raw=true)
+
+
+## Haftungsausschluss / Disclaimer
+Dieses Projekt ist nur für Bildungszwecke gedacht. Holen Sie immer eine ordnungsgemäße Genehmigung ein, bevor Sie in Netzwerken testen, die Ihnen nicht gehören oder für die Sie keine ausdrückliche Genehmigung haben.
