@@ -14,11 +14,13 @@
  - [ESP32U](https://www.amazon.de/dp/B08BZKZXLL) Nur zum entlöten des ESP Chips mit Antennen anschluss!
  - [WLAN Antenne](https://www.amazon.de/dp/B07YCBRTFB) Diese passt Plug&Play an den ESP32U und hat eine sehr gute Leistung!
  - [GPS L1 Antenne](https://store.beitian.com/products/beitian-drone-uav-rtk-gnss-helix-antenna-gps-bds-glonass-galileo-sma-j-bt-560-560l5-502-603-564-t009-t076-104-230l2-230l5?variant=44743070875935) Leider warte ich noch auf die Antenne. Es würde auch noch 
-   andere Modelle geben aber unser GPS Reciver beherscht nur GPS L1. Bei fragen dazu einfach melden!
+   andere Modelle geben aber unser GPS Reciver beherscht nur GPS L1. Bei fragen dazu einfach melden! [DISCORD](https://discord.com/invite/sW4CYXz8QA)
 ## Kompatible Firmware
-
  - [Marauder](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
  - [Bruce: Predatory](https://github.com/pr3y/Bruce) (Buggy)
+
+## ESP32 auf ESP32U Umlöten
+[Hier](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/tree/main/ESP%20L%C3%B6tanleitung) findet ihr die Anleitung und das passende Zubehör zum Löten.
 
 ## Support
 Für Support bitte meinem Discord Server beitreten. [DISCORD](https://discord.com/invite/sW4CYXz8QA)
