@@ -21,7 +21,7 @@
  - [Bruce: Predatory](https://github.com/pr3y/Bruce) (Buggy)
 
 ## Support
-Für Support bitte meinem Discord Server beitreten. https://discord.com/invite/sW4CYXz8QA
+Für Support bitte meinem Discord Server beitreten. [DISCORD](https://discord.com/invite/sW4CYXz8QA)
 
 ## Beispiel 
 
