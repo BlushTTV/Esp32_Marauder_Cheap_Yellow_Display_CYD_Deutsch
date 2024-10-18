@@ -1,5 +1,13 @@
+# Esp32 Marauder Cheap Yellow Display CYD
+<p align="center">
+  <img alt="Marauder logo" src="https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display/blob/master/img/logo01.png" width="240">
+</p>
 
-# Esp32 Marauder Cheap Yellow Display CYD Deutsch
+<p align="center">
+  <img src="https://github.com/Fr4nkFletcher/Adafruit_WebSerial_ESPTool/actions/workflows/pages.yml/badge.svg" alt="GitHub Actions Badge" />
+</p>
+
+
 
 Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow Display (CYD) mit GPS, Akku & externer Wlan Antenne. Derzeit ist alles noch in der Testphase!!!
 
