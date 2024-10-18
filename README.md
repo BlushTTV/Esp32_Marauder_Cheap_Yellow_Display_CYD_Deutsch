@@ -31,7 +31,7 @@
  - [Bruce: Predatory](https://github.com/pr3y/Bruce) (Buggy)
 
 ## ESP32 auf ESP32U Umlöten
-[Hier](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/tree/main/ESP%20L%C3%B6tanleitung) findet ihr die Anleitung, Infos und das passende Zubehör zum Löten.
+[Hier](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/ESP%20L%C3%B6tanleitung.md) findet ihr die Anleitung, Infos und das passende Zubehör zum Löten.
 
 ## Support
 Für Support bitte meinem Discord Server beitreten. [DISCORD](https://discord.com/invite/sW4CYXz8QA)
