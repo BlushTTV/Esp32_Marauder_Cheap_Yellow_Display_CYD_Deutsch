@@ -7,12 +7,12 @@ Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow D
 
 ## Einkaufsliste Hardware CYD Marauder Amazon
  - [CYD Display](https://www.amazon.de/dp/B0CSYPG716) (ein 4-poliges Kabel für den GPS-Anschluss und die Stromversorgung wird mitgeliefert)
-<p> <a href="https://www.amazon.de/dp/B0D1K7QPZ3">GPS Modul</a>
-<p> <a href="https://www.amazon.de/gp/product/B08215B4KK/ref=ox_sc_act_title_9?smid=ASLRAS85RTYN3&psc=1">3700mAh 3.7V Lipo Akku</a>
-<p> <a href="https://www.amazon.de/dp/B07VYR7J49">JST-Stecker (passt ohne Löten auf den Lipo-Stecker)</a>
-<p> <a href="https://www.amazon.de/dp/B0B9RYL56H">GPS SMA auf IPX Kabel (passt auf das GPS Board und ist für die externe GPS Antenne. Noch nicht getestet, da ich auf die externe Antenne warte)</a>
-<p> <a href="https://www.amazon.de/dp/B08SJ2HVQB">Schiebeschalter</a>
-<p> <a href="https://www.amazon.de/dp/B0BZSB3SBN"> Li–Ion Lithium-Akku-Ladeplatine mit USB-C (Warte auf eine andere. Diese funktioniert ist aber noch nicht Final!</a>
+ - [GPS Modul](https://www.amazon.de/dp/B0D1K7QPZ3) 
+ - [3700mAh 3.7V Lipo Akku](https://www.amazon.de/dp/B08215B4KK)
+ - [JST-Stecker](https://www.amazon.de/dp/B07VYR7J49) (Passt ohne Löten auf den Lipo-Stecker)
+ - [GPS SMA auf IPX Kabel](https://www.amazon.de/dp/B0B9RYL56H) (Passt auf das GPS Board und ist für die Externe GPS Antenne. Noch nicht getestet, da ich auf die Externe Antenne warte)
+ - [Schiebeschalter](https://www.amazon.de/dp/B08SJ2HVQB)
+ - [Li–Ion Lithium-Akku-Ladeplatine mit USB-C](https://www.amazon.de/dp/B0BZSB3SBN) Warte noch auf eine andere. Diese funktioniert ist aber noch nicht Final!
 
 ## Kompatible Firmware
 
