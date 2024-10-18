@@ -25,7 +25,7 @@ Für Support bitte meinem Discord Server beitreten. https://discord.com/invite/s
 ![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4117.JPG?raw=true)
 
 
-## Acknowledgments
+## Danksagungen
 
 Ein großes Dankeschön an: [ESP32-Marauder-Cheap-Yellow-Display](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display) Und eine besondere Erwähnung an [**JustCallMeKoko**](https://github.com/justcallmekoko) für ihre grundlegenden Arbeiten zum [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) & [**Fr4nkFletcher**](https://github.com/Fr4nkFletcher) für die Bereitstellung der Anleitung auf Englisch!
 
