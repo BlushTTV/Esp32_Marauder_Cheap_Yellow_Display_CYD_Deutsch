@@ -3,8 +3,6 @@
   <img alt="Marauder logo" src="https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/logo01.png?raw=true">
 </p>
 
-Hier ist eine Anleitung für ein ESP32 Marauder basierend auf dem Cheap Yellow Display (CYD) mit GPS, Akku & externer Wlan Antenne. Derzeit ist alles noch in der Testphase!!!
-
 ## Einkaufsliste Hardware CYD Marauder Amazon
  - [CYD Display](https://www.amazon.de/dp/B0CSYPG716) (ein 4-poliges Kabel für den GPS-Anschluss und die Stromversorgung wird mitgeliefert)
  - [GPS Modul](https://www.amazon.de/dp/B0D1K7QPZ3) 
