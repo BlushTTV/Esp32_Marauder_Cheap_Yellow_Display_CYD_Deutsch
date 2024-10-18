@@ -17,7 +17,7 @@
    andere Modelle geben aber unser GPS Reciver beherscht nur GPS L1. Bei fragen dazu einfach melden! [DISCORD](https://discord.com/invite/sW4CYXz8QA)
 
 
-Die entsprechenden STL-Dateien für den 3D-Druck können [Hier](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/tree/main/3D%20Druck%20STL's) heruntergeladen werden. Werden im Laufe der Zeit noch angepasst. Eventuell mache ich noch ein breiteres Gehäuse mit seitlichem Wlan-Antennenausgang. Wer keinen 3D-Drucker besitzt und ein Gehäuse wünscht oder benötigt, kann sich ebenfalls an mich wenden!
+**Die entsprechenden STL-Dateien für den 3D-Druck können [Hier](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/tree/main/3D%20Druck%20STL's) heruntergeladen werden. Werden im Laufe der Zeit noch angepasst. Eventuell mache ich noch ein breiteres Gehäuse mit seitlichem Wlan-Antennenausgang. Wer keinen 3D-Drucker besitzt und ein Gehäuse wünscht oder benötigt, kann sich ebenfalls an mich wenden!**
 
 **Eventuell werde ich bei nachfrage auch ein paar Umgelötete CYD Bildschirme anbieten.**
 
