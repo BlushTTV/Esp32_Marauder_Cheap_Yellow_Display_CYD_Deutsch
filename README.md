@@ -1,4 +1,4 @@
-# Esp32 Marauder Cheap Yellow Display (CYD)
+# Esp32 Marauder Cheap Yellow Display (CYD) mit GPS&Akku
 <p align="center">
   <img alt="Marauder logo" src="https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/logo01.png?raw=true">
 </p>
