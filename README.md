@@ -36,4 +36,4 @@ Ein großes Dankeschön an: [ESP32-Marauder-Cheap-Yellow-Display](https://github
 
 
 ## Haftungsausschluss / Disclaimer
-Dieses Projekt ist nur für Bildungszwecke gedacht. Holen Sie immer eine ordnungsgemäße Genehmigung ein, bevor Sie in Netzwerken testen, die Ihnen nicht gehören oder für die Sie keine ausdrückliche Genehmigung haben.
+Dieses Projekt ist nur für Bildungszwecke gedacht. Holen Sie immer eine ordnungsgemäße Genehmigung ein, bevor Sie in Netzwerken testen, die Ihnen nicht gehören oder für die Sie keine ausdrückliche Genehmigung haben. Ich übernehme keine Haftung für Schäden!
