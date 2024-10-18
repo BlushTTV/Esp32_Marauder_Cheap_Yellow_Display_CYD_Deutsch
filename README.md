@@ -1,4 +1,4 @@
-# Esp32 Marauder Cheap Yellow Display CYD
+# Esp32 Marauder Cheap Yellow Display (CYD)
 <p align="center">
   <img alt="Marauder logo" src="https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display/blob/master/img/logo01.png" width="240">
 </p>
