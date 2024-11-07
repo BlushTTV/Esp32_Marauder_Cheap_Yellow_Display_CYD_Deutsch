@@ -27,7 +27,7 @@
 **Eventuell werde ich bei nachfrage auch ein paar Umgelötete CYD Bildschirme anbieten.**
 
 ## Kompatible Firmware
- - [Marauder](https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display)
+ - [Marauder WebFlasher für CYD](https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/)
  - [Bruce: Predatory](https://github.com/pr3y/Bruce) (Buggy)
  - [Ghost ESP](https://github.com/Spooks4576/Ghost_ESP) (Besser als bruce aber auch Buggy)
 
