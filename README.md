@@ -40,6 +40,7 @@ Für Support bitte meinem Discord Server beitreten. [DISCORD](https://discord.co
 ## Beispiel 
 
 ![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4117.JPG?raw=true)
+![App Screenshot](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4591.JPEG)
 
 
 ## Danksagungen
