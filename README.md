@@ -15,7 +15,8 @@
  - [JST-Stecker](https://www.amazon.de/dp/B07VYR7J49) (Passt ohne Löten auf den Lipo-Stecker)
  - [GPS SMA auf IPX Kabel](https://www.amazon.de/dp/B0B9RYL56H)
  - [Schiebeschalter](https://www.amazon.de/dp/B08SJ2HVQB)
- - [Li–Ion Lithium-Akku-Ladeplatine mit USB-C](https://www.amazon.de/dp/B0BZSB3SBN) Warte noch auf eine andere. Diese funktioniert ist aber noch nicht Final!
+ - [Li–Ion Lithium-Akku-Ladeplatine mit USB-C](https://www.amazon.de/dp/B0BZSB3SBN) Optional kann man auch eine mit StepUp nutzen aber ist nicht notwenig auser man will einen helleren Bildschirm was die akku 
+   laufzeit aber auch wieder reduziert!
  - [ESP32U](https://www.amazon.de/dp/B08BZKZXLL) Nur zum entlöten des ESP Chips mit Antennen anschluss!
  - [WLAN Antenne](https://www.amazon.de/dp/B07YCBRTFB) Diese passt Plug&Play an den ESP32U und hat eine sehr gute Leistung!
  - [GPS L1 Antenne](https://store.beitian.com/products/beitian-drone-uav-rtk-gnss-helix-antenna-gps-bds-glonass-galileo-sma-j-bt-560-560l5-502-603-564-t009-t076-104-230l2-230l5?variant=44743070875935) Es würde auch noch 
