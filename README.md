@@ -28,7 +28,7 @@
 **Eventuell werde ich bei nachfrage auch ein paar Umgelötete CYD Bildschirme anbieten.**
 
 ## Kompatible Firmware
- - [Marauder WebFlasher für CYD 2432S028](https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/) NEUSTE VERSION VERFÜGBAR! 
+ - [Marauder WebFlasher für CYD 2432S028](https://fzeeflasher.com/) NEUSTE VERSION VERFÜGBAR! 
  - [Marauder WebFlasher für CYD](https://fr4nkfletcher.github.io/Adafruit_WebSerial_ESPTool/) (Veraltet aber mehrere versionen)
  - [Bruce: Predatory](https://github.com/pr3y/Bruce) (Buggy)
  - [Ghost ESP](https://github.com/Spooks4576/Ghost_ESP) (Besser als bruce aber auch Buggy)
