@@ -10,7 +10,7 @@
 
 ## Einkaufsliste Hardware CYD Marauder Amazon
  - [CYD Display](https://www.amazon.de/dp/B0CSYPG716) (ein 4-poliges Kabel für den GPS-Anschluss und die Stromversorgung wird mitgeliefert)
- - [GPS Modul](https://www.amazon.de/dp/B0D1K7QPZ3) 
+ - [GPS Modul](https://amzn.eu/d/0e4LMSs0) (Geht auch ein NEO-6M z.b.)
  - [3700mAh 3.7V Lipo Akku](https://www.amazon.de/dp/B08215B4KK)
  - [JST-Stecker](https://www.amazon.de/dp/B07VYR7J49) (Passt ohne Löten auf den Lipo-Stecker)
  - [GPS SMA auf IPX Kabel](https://www.amazon.de/dp/B0B9RYL56H)
