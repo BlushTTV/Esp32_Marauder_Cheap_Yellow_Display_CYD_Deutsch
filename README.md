@@ -37,9 +37,8 @@ Um das volle Potenzial (GPS & Mobilität) auszuschöpfen, werden folgende Kompon
 ## 📐 3D-Druck & Gehäuse
 Die STL-Dateien für das passende Gehäuse findest du im Ordner [3D Druck STL's](./3D%20Druck%20STL's).
 
-* **Status:** Die Dateien werden laufend optimiert.
 * **Geplant:** Ein breiteres Gehäuse mit seitlichem Ausgang für die WLAN-Antenne.
-* **Service:** Falls du keinen 3D-Drucker hast oder ein fertiges Gehäuse benötigst, melde dich gerne bei mir auf Discord!
+
 
 ---
 
