@@ -28,7 +28,7 @@ Für diesen Umbau ist eine Heißluftstation zwingend erforderlich, da die Kontak
 
 ## 📸 Vorbereitung
 
-![Lötpaste](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4110.JPEG?raw=true)
+![Lötpaste](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4110.png?raw=true)
 *Präzises Auftragen der Lötpaste ist der Schlüssel zum Erfolg.*
 
 ---
