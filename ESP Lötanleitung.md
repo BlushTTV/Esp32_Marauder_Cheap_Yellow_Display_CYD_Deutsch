@@ -1,15 +1,37 @@
-## Hier findet ihr alles, was ihr braucht, um einen ESP32 auf einen anderen ESP32U zu löten.
+# 🛠 ESP32 auf ESP32U Umlöten
+### Anleitung, Zubehör und Sicherheitshinweise
 
- - [Heißluft Lötstation](https://www.amazon.de/dp/B0CGNFK249) Diese Station ist recht preiswert, hat aber bisher alle ihre Aufgaben erfüllt, natürlich kann auch eine andere Station verwendet werden!
- - [Lötpaste](https://www.amazon.de/dp/B0DBLQH34L) Natürlich kann man hier auch eine andere verwenden, aber ich bin mit dieser recht zufrieden.
- 
-   **Optional**
- - [ESD Klebeband](https://www.amazon.de/dp/B07W7RD1NB) Dies dient dem Schutz der umliegenden Bauteile vor Lockerung oder Verbrennung. Ist nicht zwingend erforderlich, erleichtert aber die Arbeit ungemein! Hier kann natürlich auch ein Ersatzprodukt mit weniger 
-  Rollen genommen werden, nur auf hohe Temperaturbeständigkeit achten!
- - [Löthilfe aka 3.Hand](https://www.amazon.de/L%C3%B6tstation-Lupenlampe-Metallarme-Liebhaber-Schmuckhersteller/dp/B09Y982LZR/ref=sr_1_6?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&sr=8-6) Zur Fixirung des ESP's.
+Um eine externe Antenne an deinem CYD nutzen zu können, muss der Standard-ESP32-Chip gegen eine **U-Variante (mit IPX/U.FL Buchse)** ausgetauscht werden. Hier findest du das benötigte Equipment und wichtige Tipps für den Umbau.
 
+---
 
-![Lötpaste](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4110.JPEG)
+## 🧰 Benötigtes Werkzeug & Material
 
-## Haftungsausschluss 
-Ich übernehme keine Haftung für Schäden!
+Für diesen Umbau ist eine Heißluftstation zwingend erforderlich, da die Kontakte unter dem Chip (Thermal Pad) mit einem normalen Lötkolben nicht erreichbar sind.
+
+| Werkzeug | Empfehlung / Beschreibung | Link |
+| :--- | :--- | :--- |
+| **Heißluft-Station** | Preiswerte Station, ideal für gelegentliche SMD-Arbeiten. | [Amazon](https://www.amazon.de/dp/B0CGNFK249) |
+| **Lötpaste** | Erleichtert das saubere Verbinden der SMD-Kontakte. | [Amazon](https://www.amazon.de/dp/B0DBLQH34L) |
+| **ESD Klebeband** | **(Optional)** Schützt umliegende Bauteile vor Hitze. | [Amazon](https://www.amazon.de/dp/B07W7RD1NB) |
+| **Dritte Hand** | **(Optional)** Zur stabilen Fixierung des Boards. | [Amazon](https://www.amazon.de/L%C3%B6tstation-Lupenlampe-Metallarme-Liebhaber-Schmuckhersteller/dp/B09Y982LZR/) |
+
+---
+
+## 💡 Tipps für den Umbau
+
+1. **Schutz:** Nutze das **Kapton/ESD-Klebeband**, um die umliegenden Bauteile (Widerstände, Kondensatoren) abzukleben. So verhinderst du, dass sie durch den Luftstrom weggeblasen werden, wenn das Lot schmilzt.
+2. **Dosierung:** Trage die Lötpaste nur sehr dünn auf die Pads auf. Zu viel Paste kann Kurzschlüsse unter dem Chip verursachen.
+3. **Geduld:** Erhitze den Chip gleichmäßig kreisend, bis er sich fast von selbst bewegen lässt. Hebe ihn vorsichtig mit einer Pinzette ab.
+
+---
+
+## 📸 Vorbereitung
+
+![Lötpaste](https://github.com/BlushTTV/Esp32_Marauder_Cheap_Yellow_Display_CYD_Deutsch/blob/main/Bilder/IMG_4110.JPEG?raw=true)
+*Präzises Auftragen der Lötpaste ist der Schlüssel zum Erfolg.*
+
+---
+
+## ⚠️ Haftungsausschluss
+Lötarbeiten an elektronischen Bauteilen erfordern Erfahrung. Ich übernehme **keine Haftung** für Schäden an deiner Hardware, verbrannte Bauteile oder Verletzungen durch unsachgemäßen Gebrauch der Werkzeuge! Durchführung auf eigene Gefahr.
