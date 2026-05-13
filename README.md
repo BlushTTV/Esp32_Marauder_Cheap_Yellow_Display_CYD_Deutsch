@@ -20,7 +20,7 @@ Um das volle Potenzial (GPS & Mobilität) auszuschöpfen, werden folgende Kompon
 | Komponente | Beschreibung | Link |
 | :--- | :--- | :--- |
 | **Display** | CYD Display (ESP32-2432S028) inkl. 4-pol Kabel | [Amazon](https://www.amazon.de/dp/B0CSYPG716) |
-| **GPS Modul** | NEO-6M oder kompatibel | [Amazon](https://amzn.eu/d/0e4LMSs0) |
+| **GPS Modul** | NEO-6M oder NEO-M8N kompatibel | [Amazon](https://amzn.eu/d/0e4LMSs0) |
 | **Akku** | 3700mAh 3.7V Lipo Akku | [Amazon](https://www.amazon.de/dp/B08215B4KK) |
 | **Anschluss** | JST-Stecker (für lötfreien Akku-Anschluss) | [Amazon](https://www.amazon.de/dp/B07VYR7J49) |
 | **Ladeplatine** | Li–Ion Lithium-USB-C Lader (Step-Up optional) | [Amazon](https://www.amazon.de/dp/B0BZSB3SBN) |
